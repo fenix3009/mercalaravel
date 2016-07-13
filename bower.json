@@ -1,0 +1,22 @@
+{
+  "name": "Mercado2",
+  "version": "1.0.0",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular-checklist-model": "0.10.0",
+    "angular": "1.5.7",
+    "angular-animate": "1.5.7",
+    "angular-bootstrap": "1.3.3",
+    "angular-touch": "1.5.7",
+    "bootstrap": "3.3.6",
+    "angular-base64-upload": "0.1.19",
+    "angular-toastr": "1.7.0",
+    "angular-ui-router": "0.3.1",
+    "angular-ui-router-anim-in-out": "1.0.2",
+    "angular-bootstrap-colorpicker": "3.0.25"
+  },
+  "devDependencies": {}
+}
